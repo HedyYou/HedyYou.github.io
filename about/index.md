@@ -5,7 +5,18 @@ layout: default
 Fangzhou You
 =============
 
-I'm a PhD student at the School of Design and Creative Arts, Loughborough University.
-I am keen in Design for Sustainable Behaviour.
-My current research interests includes participatory design, user behaviour research, design for behaviour change and design for susutainable behaviour.
-I'm a versatile scholar in terms of my educational experiences. I obtained my MA in Interaction Design (Tongji University, China), MSc in Systemic Design (Polytechnic University of Turin, Italy), BA in IndustrIal Design (East China Normal University, China) and BSc in Applied Psychology (Ibid.)
+Fangzhou is a Lecturer in Digital Design, at School of Arts and Creative Technologies, University of York, UK. 
+Prior to that, she was a postdoctoral researcher at the Dyson School of Design Engineering, Imperial College London.
+She holds PhD from Loughborough University, MA from Interaction Design (Tongji University, China), MSc from Systemic Design (Polytechnic University of Turin, Italy), BA in IndustrIal Design and BSc in Applied Psychology(East China Normal University, China).
+
+Her current research interests include:
+
+* Responsible design;
+
+* Designing for inclusion, sustainability and wellbeing;
+
+* Design for behaviour change;
+
+* Participatory design;
+
+* Gender-sensitive design in human computer interaction.
