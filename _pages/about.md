@@ -51,6 +51,6 @@ Additionally, there are scholarships and studentships available to postgraduate 
 
 
 ## News
-#### <em>2024 May </em> A peer-reviewed journal paper entitled "Design-led solutions for reducing airline food waste: A participatory approach to develop behaviour change interventions" has been published by the Design Journal.
-#### <em>2024 May</em> A peer-reviewed project entitled "Fictionary: Creative food experience through collaborative lexical building" has been accept for presentation on EFOOD24: the 4th International Food Design and Food Studies Conference, Spain.
+#### <em>2024</em> May, A peer-reviewed journal paper entitled "Design-led solutions for reducing airline food waste: A participatory approach to develop behaviour change interventions" has been published by the Design Journal.
+#### <em>2024</em> May, A peer-reviewed project entitled "Fictionary: Creative food experience through collaborative lexical building" has been accept for presentation on EFOOD24: the 4th International Food Design and Food Studies Conference, Spain.
 
