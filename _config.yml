@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "BEng, M.S.c., PhD, AFHEA, St Edmunds College"
+title                    : "BA, BSc, MA, M.s.c, PhD"
 title_separator          : "-"
-name                     : "Chen Chen"
+name                     : "Fangzhou You"
 description              : &description "personal description"
-url                      : https://LukasChenChen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hedyyou.github.io/# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,29 +21,29 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "chen.jpg"
-  name             : "Chen Chen"
+  avatar           : "fangzhou.jpg"
+  name             : "Fangzhou You"
   pronouns         : # example: "she/her"  
-  bio              : "Research Associate at Department of Computer Science and Technology"
-  location         : "Cambridge, UK"
-  employer         : "University of Cambridge"
+  bio              : "Lecturer at School of Arts and Creative Technologies"
+  location         : "York, UK"
+  employer         : "University of York"
   uri              : # URL
-  email            : "cc2181@cam.ac.uk" 
+  email            : "fangzhou.you@york.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=fNcWdsIAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=biF-4JYAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Fangzhou-You"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "lukaschenchen"
+  github           : # Username
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "chen-chen-55b295125"
+  linkedin         : "fangzhou-you-908804177"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
