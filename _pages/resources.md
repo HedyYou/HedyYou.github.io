@@ -11,7 +11,6 @@ author_profile: true
 
 ### [Researcher, Don’t Make Your Readers Scream!](https://www.cl.cam.ac.uk/~lp15/Pages/Scream.html)
 
-### [Networking Conferences Statistics](https://sites.cs.ucsb.edu/~almeroth/conf/stats/)
 
 ### [How to review a paper](https://www.cs.utexas.edu/users/mckinley/notes/reviewing-smith.pdf)
 
