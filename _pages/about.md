@@ -15,6 +15,29 @@ She holds PhD from Loughborough University, MA from Interaction Design (Tongji U
 My Google scholar can be found [here](https://scholar.google.com/citations?user=biF-4JYAAAAJ&hl=en).
 My Research Gate can be found [here](https://www.researchgate.net/profile/Fangzhou-You?ev=prf_highl).
 
+
+
+## I'm seeking self-motivated PhD applicants interested in the following topics:
+
+<ul>
+<li>Behavioural design, including Design for Sustainable Behaviour and Design for Behaviour Change</li>
+<li>Gender-sensitive design in Human-Computer Interaction</li>
+</ul>
+
+Prospective students should have a good first degree in Design, Design Engineering, Human-Computer Interaction, or other design-related disciplines.
+
+Please contact me via email with the following materials:
+
+<p>* A research proposal aligned with the above-mentioned research interests
+<p>* A CV containing your academic experience and achievements
+<p>
+You can find information about the PhD application procedure at the School of Arts and Creative Technologies via[this](https://www.york.ac.uk/arts-creative-technologies/study/theatre-film-television-research-degrees/phd-theatre-film-tv-interactive-media-by-research/)
+Additionally, there are scholarships and studentships available to postgraduate researchers that you may be interested in applying for via [this](https://www.york.ac.uk/arts-creative-technologies/study/funding/postgraduate-research/)
+
+
+
+
+
 ## Research Interest
 <ul>
 <li>Responsible design</li>
@@ -25,23 +48,6 @@ My Research Gate can be found [here](https://www.researchgate.net/profile/Fangzh
 </ul>
 <br>
 <br>
-
-I'm seeking self-motivated PhD applicants interested in the following topics:
-
-<p>* Behavioural design, including Design for Sustainable Behaviour and Design for Behaviour Change
-<p>* Gender-sensitive design in Human-Computer Interaction
-
-Prospective students should have a good first degree in Design, Design Engineering, Human-Computer Interaction, or other design-related disciplines.
-
-Please contact me via email with the following materials:
-
-<p>* A research proposal aligned with the above-mentioned research interests
-<p>* A CV containing your academic experience and achievements
-
-<p>
-You can find information about the PhD application procedure at the School of Arts and Creative Technologies via[this](https://www.york.ac.uk/arts-creative-technologies/study/theatre-film-television-research-degrees/phd-theatre-film-tv-interactive-media-by-research/)br>
-Additionally, there are scholarships and studentships available to postgraduate researchers that you may be interested in applying for via [this](https://www.york.ac.uk/arts-creative-technologies/study/funding/postgraduate-research/)
-
 
 
 ## News
