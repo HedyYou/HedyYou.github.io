@@ -33,9 +33,9 @@ Please contact me via email with the following materials:
 <li> A CV containing your academic experience and achievements</li>
 </ul>
 
-You can find information about the PhD application procedure at the School of Arts and Creative Technologies via [this](https://www.york.ac.uk/arts-creative-technologies/study/theatre-film-television-research-degrees/phd-theatre-film-tv-interactive-media-by-research/)
+You can find information about the PhD application procedure at the School of Arts and Creative Technologies via [this link](https://www.york.ac.uk/arts-creative-technologies/study/theatre-film-television-research-degrees/phd-theatre-film-tv-interactive-media-by-research/)
 
-Additionally, there are scholarships and studentships available to postgraduate researchers that you may be interested in applying for via [this](https://www.york.ac.uk/arts-creative-technologies/study/funding/postgraduate-research/)
+Additionally, there are scholarships and studentships available to postgraduate researchers that you may be interested in applying for via [this link](https://www.york.ac.uk/arts-creative-technologies/study/funding/postgraduate-research/)
 
 
 
